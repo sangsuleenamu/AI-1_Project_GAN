@@ -5,7 +5,6 @@
 
 kaggle에서 사람의 얼굴이 모여져있는 데이터셋을 받아와서 학습을 진행하였습니다.
 
-https://www.kaggle.com/datasets/almightyj/person-face-dataset-thispersondoesnotexist?resource=download-directory
 
 <table align="left">
   <td>
